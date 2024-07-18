@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Programming Pathshala Assignment
 
-## Getting Started
+## Features Implemented
 
-First, run the development server:
+1. **Frontend Development:**
+   - Developed the frontend based on the Figma design provided.
+   - Added necessary components and ensured layout consistency.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+2. **Dark and Light Mode Toggle:**
+   - Implemented a toggle button in the header to switch between dark and light modes.
+   - Added code for the Dark and Light mode toggle but not working currently but i can fix that if I had more time..
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. **Responsive Design:**
+   - Made the website responsive for mobile devices.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+4. **Working Carousel:**
+   - Added code for carousel to the first section of the website (Hero Section).
+   - But not wokring properly currently but I can fix this if I had more time..
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+5. **Count-Up Animation:**
+   - Implemented a count-up animation in the statistics section.
+   - Animated the numbers to start from 0 and reach their designated values as per the Figma design.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+- **Deployment:**
+  - The assignment project is deployed and can be viewed [here](https://programming-pathshala-assignment-virendra-kumar.vercel.app/).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Time Constraints
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Due to ongoing College Recruitment Training (CRT), development hours are primarily after 4 PM daily. Some features are partially implemented, and additional improvements are welcome as per the assignment guidelines.
